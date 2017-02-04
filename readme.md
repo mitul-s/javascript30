@@ -15,8 +15,8 @@ Text-based guides (unofficial) for the challenges can be found here - [Text Guid
 
 ## Come find me!
 
-**Instagram** - @typicalmitul
-**Twitter** - @typicalmitul
+* **Instagram :camera:** - @typicalmitul
+* **Twitter :bird:** - @typicalmitul
 
 
      
