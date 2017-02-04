@@ -1,12 +1,15 @@
 html {
   font-size: 10px;
-  background:url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+    background: linear-gradient(
+                rgba(20,20,20, .1), 
+                rgba(90,90,90, .2)),
+                url(https://source.unsplash.com/NUFnfYd09iI) ;
   background-size: cover;
 }
 body,html {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 
 .keys {
@@ -23,7 +26,7 @@ body,html {
   margin:1rem;
   font-size: 1.5rem;
   padding:1rem .5rem;
-  transition:all .07s;
+  transition:all 0.1s;
   width:100px;
   text-align: center;
   color:white;
@@ -33,12 +36,13 @@ body,html {
 
 .playing {
   transform:scale(1.1);
-  border-color:#ffc600;
-  box-shadow: 0 0 10px #ffc600;
+  border-color: #F9BF3B;
+  box-shadow: 0 0 10px #F9BF3B;
 }
 
 kbd {
   display: block;
+  font-family: monospace;
   font-size: 40px;
 }
 
@@ -46,5 +50,5 @@ kbd {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: 1px;
-  color:#ffc600;
+  color:#F9BF3B;
 }
