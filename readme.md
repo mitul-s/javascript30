@@ -10,8 +10,13 @@ Text-based guides (unofficial) for the challenges can be found here - [Text Guid
 
 # Projects
 
-1. *Drum Kit* - http://js30-m.surge.sh/
+1. **Drum Kit** - http://js30-m.surge.sh/
 
+
+## Come find me!
+
+**Instagram** - @typicalmitul
+**Twitter** - @typicalmitul
 
 
      
