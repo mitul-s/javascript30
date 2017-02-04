@@ -9,6 +9,7 @@
 Start date: Febuary 3rd, 2017
 
 1. **Drum Kit** - http://js30-m.surge.sh/
+2. **CSS+JS Clock** - 
 
 
 ## Come find me!
