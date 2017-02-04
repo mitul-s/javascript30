@@ -52,3 +52,13 @@ kbd {
   letter-spacing: 1px;
   color:#F9BF3B;
 }
+
+.cta {
+    color: ghostwhite;
+    text-align: center;
+    margin-top: -20%;
+}
+
+a {
+    color: #F9BF3B;
+}
