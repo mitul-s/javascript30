@@ -59,6 +59,10 @@ kbd {
     margin-top: -20%;
 }
 
+h1 {
+    font-weight: 500;
+}
+
 a {
     color: #F9BF3B;
 }
