@@ -15,7 +15,7 @@ Start date: Febuary 3rd, 2017
 3.  [x] | [CSS Variables](https://mitul-js30.surge.sh/03%20-%20CSS%20Variables/index.html)
 4.  [x] | [Array Cardio 1](https://mitul-js30.surge.sh/04%20-%20Array%20Cardio%20Day%201/index.html)
 5.  [x] | [Flex Panel Gallery](https://mitul-js30.surge.sh/05%20-%20Flex%20Panel%20Gallery/index.html)
-6.  [ ] | [Type Ahead]
+6.  [x] | [Type Ahead](https://mitul-js30.surge.sh/06%20-%20Type%20Ahead/index.html)
 7.  [ ] | [Array Cardio 2]
 8.  [ ] | [HTML5 Canvas]
 9.  [ ] | [Dev Tools Domination]
