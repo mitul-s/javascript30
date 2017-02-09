@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    
   <form class="search-form">
     <input type="text" class="search" placeholder="City or State">
     <ul class="suggestions">
@@ -26,7 +27,7 @@ function findMatches(wordToMatch, cities){
     return cities.filter(place => {
         //figure out if city/state matches search
        const regex = new RegExp(wordToMatch, 'gi');
-       return place.city.match(regex) || place.state.match(regex); 
+       return place.city.match(regex) || place.state.match(regex) 
     });
 }
     
@@ -39,7 +40,7 @@ function displayMatches() {
     const html = matchArray.map(place => {
         const regex = new RegExp(this.value, 'gi');
         const cityName = place.city.replace(regex, `<span class="hl">${this.value}</span>`);
-        const stateName = place.state.replace(regex, `<span class="h1">${this.value}</span>`)
+        const stateName = place.state.replace(regex, `<span class="hl">${this.value}</span>`);
         return `
         <li>
             <span class="name">${cityName}, ${stateName}</span>
