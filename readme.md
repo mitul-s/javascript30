@@ -17,7 +17,7 @@ Start date: Febuary 3rd, 2017
 5.  [x] | [Flex Panel Gallery](https://mitul-js30.surge.sh/05%20-%20Flex%20Panel%20Gallery/index.html)
 6.  [x] | [Type Ahead](https://mitul-js30.surge.sh/06%20-%20Type%20Ahead/index.html)
 7.  [x] | [Array Cardio 2](https://mitul-js30.surge.sh/07%20-%20Array%20Cardio%20Day%202/index.html)
-8.  [ ] | [HTML5 Canvas]
+8.  [x] | [HTML5 Canvas](https://mitul-js30.surge.sh/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
 9.  [ ] | [Dev Tools Domination]
 10. [ ] | [Checkboxes]
 11. [ ] | [Custom Video Player]
