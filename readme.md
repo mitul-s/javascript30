@@ -19,7 +19,7 @@ Start date: Febuary 3rd, 2017
 7.  [x] | [Array Cardio 2](https://mitul-js30.surge.sh/07%20-%20Array%20Cardio%20Day%202/index.html)
 8.  [x] | [HTML5 Canvas](https://mitul-js30.surge.sh/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
 9.  [x] | [Dev Tools Domination](https://mitul-js30.surge.sh/09%20-%20Dev%20Tools%20Domination/index.html)
-10. [ ] | [Checkboxes]
+10. [x] | [Checkboxes](https://mitul-js30.surge.sh/10%20-%20Checkboxes/index.html)
 11. [ ] | [Custom Video Player]
 12. [ ] | [Key Sequence Detection]
 13. [ ] | [Slide in on Scroll]
