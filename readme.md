@@ -20,7 +20,7 @@ Start date: Febuary 3rd, 2017
 8.  [x] | [HTML5 Canvas](https://mitul-js30.surge.sh/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
 9.  [x] | [Dev Tools Domination](https://mitul-js30.surge.sh/09%20-%20Dev%20Tools%20Domination/index.html)
 10. [x] | [Checkboxes](https://mitul-js30.surge.sh/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
-11. [ ] | [Custom Video Player]
+11. [x] | [Custom Video Player](https://mitul-js30.surge.sh/11%20-%20Custom%20Video%20Player/index.html)
 12. [ ] | [Key Sequence Detection]
 13. [ ] | [Slide in on Scroll]
 14. [ ] | [JS References vs Copying]
