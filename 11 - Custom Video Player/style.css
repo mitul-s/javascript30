@@ -9,9 +9,8 @@ html {
 body {
   padding: 0;
   display:flex;
-  background:#7A419B;
+  background:#20b261;
   min-height:100vh;
-  background: linear-gradient(135deg, #7c1599 0%,#921099 48%,#7e4ae8 100%);
   background-size:cover;
   align-items: center;
   justify-content: center;
@@ -87,7 +86,7 @@ body {
 
 .progress__filled {
   width:50%;
-  background:#ffc600;
+  background: lightseagreen;
   flex:0;
   flex-basis:50%;
 }
@@ -117,7 +116,7 @@ input[type=range]::-webkit-slider-thumb {
   height: 15px;
   width: 15px;
   border-radius: 50px;
-  background: #ffc600;
+  background: lightseagreen;
   cursor: pointer;
   -webkit-appearance: none;
   margin-top: -3.5px;
@@ -140,6 +139,6 @@ input[type=range]::-moz-range-thumb {
   height: 15px;
   width: 15px;
   border-radius: 50px;
-  background: #ffc600;
+  background: lightseagreen;
   cursor: pointer;
 }
