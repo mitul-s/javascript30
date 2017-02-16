@@ -22,7 +22,7 @@ Start date: Febuary 3rd, 2017
 10. [x] | [Checkboxes](https://mitul-js30.surge.sh/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
 11. [x] | [Custom Video Player](https://mitul-js30.surge.sh/11%20-%20Custom%20Video%20Player/index.html)
 12. [x] | [Key Sequence Detection](http://mitul-js30.surge.sh/12%20-%20Key%20Sequence%20Detection/index.html)
-13. [ ] | [Slide in on Scroll]
+13. [x] | [Slide in on Scroll](http://mitul-js30.surge.sh/13%20-%20Slide%20in%20on%20Scroll/index.html)
 14. [ ] | [JS References vs Copying]
 15. [ ] | [LocalStorage]
 16. [ ] | [Mouse Move Shadow]
