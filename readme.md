@@ -24,7 +24,7 @@ Start date: Febuary 3rd, 2017
 12. [x] | [Key Sequence Detection](http://mitul-js30.surge.sh/12%20-%20Key%20Sequence%20Detection/index.html)
 13. [x] | [Slide in on Scroll](http://mitul-js30.surge.sh/13%20-%20Slide%20in%20on%20Scroll/index.html)
 14. [x] | [JS References vs Copying]
-15. [ ] | [LocalStorage]
+15. [x] | [LocalStorage](http://mitul-js30.surge.sh/15%20-%20LocalStorage/index.html)
 16. [ ] | [Mouse Move Shadow]
 17. [ ] | [Sort Without Articles]
 18. [ ] | [Adding Up Times with Reduce]
