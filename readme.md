@@ -25,8 +25,8 @@ Start date: Febuary 3rd, 2017
 13. [x] | [Slide in on Scroll](http://mitul-js30.surge.sh/13%20-%20Slide%20in%20on%20Scroll/index.html)
 14. [x] | [JS References vs Copying]
 15. [x] | [LocalStorage](http://mitul-js30.surge.sh/15%20-%20LocalStorage/index.html)
-16. [ ] | [Mouse Move Shadow]
-17. [ ] | [Sort Without Articles]
+16. [x] | [Mouse Move Shadow](http://mitul-js30.surge.sh/16%20-%20Mouse%20Move%20Shadow/index.html)
+17. [x] | [Sort Without Articles](http://mitul-js30.surge.sh/17%20-%20Sort%20Without%20Articles/index.html)
 18. [ ] | [Adding Up Times with Reduce]
 19. [ ] | [Webcame Fun]
 20. [ ] | [Speech Detection]
