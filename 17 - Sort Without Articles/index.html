@@ -55,10 +55,11 @@ const sortedBands = bands.sort(function(a, b){
         return -1;
     }
 });    
-    
-    document.querySelector('#bands').innerHTML = sortedBands.map(band => `<li>${band}</li>`).join('');
+
+document.querySelector('#bands').innerHTML = sortedBands.map(band => `<li>${band}</li>`).join('');
     
 
+/* testing junk 
 function sorting(){
 var newBand = [];
 for(var i = 0; i < bands.length; i++){
@@ -70,6 +71,7 @@ for(var i = 0; i < bands.length; i++){
     console.log(newBand);
     console.log(newArr);
 }    
+*/
 
 </script>
 
