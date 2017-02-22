@@ -29,7 +29,7 @@ Start date: Febuary 3rd, 2017
 17. [x] | [Sort Without Articles](http://mitul-js30.surge.sh/17%20-%20Sort%20Without%20Articles/index.html)
 18. [x] | [Adding Up Times with Reduce](http://mitul-js30.surge.sh/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html)
 19. [x] | [Webcam Fun](http://mitul-js30.surge.sh/19%20-%20Webcam%20Fun/index.html) - Doesn't work without a server.
-20. [ ] | [Speech Detection]
+20. [x] | [Speech Detection](http://mitul-js30.surge.sh/20%20-%20Speech%20Detection/index.html) - Doesn't work without a server
 21. [ ] | [Geolocation]
 22. [ ] | [Follow Along Link Highlighter]
 23. [ ] | [Speech Synthesis ]
