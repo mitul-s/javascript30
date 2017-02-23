@@ -31,7 +31,7 @@ Start date: Febuary 3rd, 2017
 19. [x] | [Webcam Fun](http://mitul-js30.surge.sh/19%20-%20Webcam%20Fun/index.html) - Doesn't work without a server.
 20. [x] | [Speech Detection](http://mitul-js30.surge.sh/20%20-%20Speech%20Detection/index.html) - Doesn't work without a server
 21. [ ] | [Geolocation]
-22. [ ] | [Follow Along Link Highlighter]
+22. [x] | [Follow Along Link Highlighter](http://mitul-js30.surge.sh/22%20-%20Follow%20Along%20Link%20Highlighter/index.html)
 23. [ ] | [Speech Synthesis ]
 24. [ ] | [Sticky Nav]
 25. [ ] | [Event Capture, Propagation.. ]
