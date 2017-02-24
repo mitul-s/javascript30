@@ -32,7 +32,7 @@ Start date: Febuary 3rd, 2017
 20. [x] | [Speech Detection](http://mitul-js30.surge.sh/20%20-%20Speech%20Detection/index.html) - Doesn't work without a server
 21. [ ] | [Geolocation]
 22. [x] | [Follow Along Link Highlighter](http://mitul-js30.surge.sh/22%20-%20Follow%20Along%20Link%20Highlighter/index.html)
-23. [ ] | [Speech Synthesis ]
+23. [x] | [Speech Synthesis](http://mitul-js30.surge.sh/23%20-%20Speech%20Synthesis/index.html)
 24. [ ] | [Sticky Nav]
 25. [ ] | [Event Capture, Propagation.. ]
 26. [ ] | [Stripe Follow Along Nav]
