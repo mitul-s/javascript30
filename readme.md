@@ -33,7 +33,7 @@ Start date: Febuary 3rd, 2017
 21. [ ] | [Geolocation]
 22. [x] | [Follow Along Link Highlighter](http://mitul-js30.surge.sh/22%20-%20Follow%20Along%20Link%20Highlighter/index.html)
 23. [x] | [Speech Synthesis](http://mitul-js30.surge.sh/23%20-%20Speech%20Synthesis/index.html)
-24. [ ] | [Sticky Nav]
+24. [x] | [Sticky Nav](http://mitul-js30.surge.sh/24%20-%20Sticky%20Nav/index.html)
 25. [ ] | [Event Capture, Propagation.. ]
 26. [ ] | [Stripe Follow Along Nav]
 27. [ ] | [Click and Drag]
