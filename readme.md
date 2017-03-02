@@ -34,9 +34,9 @@ Start date: Febuary 3rd, 2017
 22. [x] | [Follow Along Link Highlighter](http://mitul-js30.surge.sh/22%20-%20Follow%20Along%20Link%20Highlighter/index.html)
 23. [x] | [Speech Synthesis](http://mitul-js30.surge.sh/23%20-%20Speech%20Synthesis/index.html)
 24. [x] | [Sticky Nav](http://mitul-js30.surge.sh/24%20-%20Sticky%20Nav/index.html)
-25. [ ] | [Event Capture, Propagation.. ]
-26. [ ] | [Stripe Follow Along Nav]
-27. [ ] | [Click and Drag]
+25. [x] | [Event Capture, Propagation.. ](http://mitul-js30.surge.sh/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/index.html)
+26. [x] | [Stripe Follow Along Nav](http://mitul-js30.surge.sh/26%20-%20Stripe%20Follow%20Along%20Nav/index.html)
+27. [x] | [Click and Drag](http://mitul-js30.surge.sh/27%20-%20Click%20and%20Drag/index.html)
 28. [ ] | [Video Speed Controller]
 29. [ ] | [Countdown Timer]
 30. [ ] | [Whack A Mole]
