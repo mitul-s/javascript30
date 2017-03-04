@@ -11,6 +11,7 @@ Click the blue links to view the project.
 👾 = Console based, refer to code rather than link
 
 Start date: 	Febuary 3rd, 2017
+
 Finish date:	March 4th, 2017 🔥
 
 1.  [x] | [Drum Kit](https://mitul-js30.surge.sh/01%20-%20JavaScript%20Drum%20Kit/index.html)
