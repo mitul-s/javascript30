@@ -7,6 +7,7 @@
 # Projects
 
 Click the blue links to view the project. 
+
 👾 = Console based, refer to code rather than link
 
 Start date: Febuary 3rd, 2017
@@ -19,7 +20,7 @@ Start date: Febuary 3rd, 2017
 6.  [x] | [Type Ahead](https://mitul-js30.surge.sh/06%20-%20Type%20Ahead/index.html)
 7.  [x] | [Array Cardio 2](https://mitul-js30.surge.sh/07%20-%20Array%20Cardio%20Day%202/index.html) | 👾
 8.  [x] | [HTML5 Canvas](https://mitul-js30.surge.sh/08%20-%20Fun%20with%20HTML5%20Canvas/index.html)
-9.  [x] | [Dev Tools Domination](https://mitul-js30.surge.sh/09%20-%20Dev%20Tools%20Domination/index.html)
+9.  [x] | [Dev Tools Domination](https://mitul-js30.surge.sh/09%20-%20Dev%20Tools%20Domination/index.html) | 👾
 10. [x] | [Checkboxes](https://mitul-js30.surge.sh/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html)
 11. [x] | [Custom Video Player](https://mitul-js30.surge.sh/11%20-%20Custom%20Video%20Player/index.html)
 12. [x] | [Key Sequence Detection](http://mitul-js30.surge.sh/12%20-%20Key%20Sequence%20Detection/index.html)
@@ -29,9 +30,9 @@ Start date: Febuary 3rd, 2017
 16. [x] | [Mouse Move Shadow](http://mitul-js30.surge.sh/16%20-%20Mouse%20Move%20Shadow/index.html)
 17. [x] | [Sort Without Articles](http://mitul-js30.surge.sh/17%20-%20Sort%20Without%20Articles/index.html) | 👾
 18. [x] | [Adding Up Times with Reduce](http://mitul-js30.surge.sh/18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html) | 👾
-19. [x] | [Webcam Fun](http://mitul-js30.surge.sh/19%20-%20Webcam%20Fun/index.html) - Doesn't work without a server.
-20. [x] | [Speech Detection](http://mitul-js30.surge.sh/20%20-%20Speech%20Detection/index.html) - Doesn't work without a server
-21. [ ] | [Geolocation]
+19. [x] | [Webcam Fun](http://mitul-js30.surge.sh/19%20-%20Webcam%20Fun/index.html) - Server
+20. [x] | [Speech Detection](http://mitul-js30.surge.sh/20%20-%20Speech%20Detection/index.html) - Server
+21. [x] | [Geolocation](http://mitul-js30.surge.sh/21%20-%20Geolocation/index.html) - Server
 22. [x] | [Follow Along Link Highlighter](http://mitul-js30.surge.sh/22%20-%20Follow%20Along%20Link%20Highlighter/index.html)
 23. [x] | [Speech Synthesis](http://mitul-js30.surge.sh/23%20-%20Speech%20Synthesis/index.html)
 24. [x] | [Sticky Nav](http://mitul-js30.surge.sh/24%20-%20Sticky%20Nav/index.html)
