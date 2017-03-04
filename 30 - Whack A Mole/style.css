@@ -67,3 +67,21 @@ h1 {
 .hole.up .mole {
   top:0;
 }
+
+.btn{
+	background-color: lightseagreen;
+	font-size: 20px;
+	color: whitesmoke;
+	text-transform: uppercase;
+	box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
+	border: 3px solid ghostwhite;
+	padding: 10px 15px;
+	text-align: center;
+	text-decoration: none;
+	font-family: 'Helvetica', sans-serif;
+	margin-top: 50px;
+	margin-left: 44%;
+}
+btn:focus {
+	outline: 0 !important;
+}
