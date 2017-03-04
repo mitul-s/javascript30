@@ -40,7 +40,7 @@ Start date: Febuary 3rd, 2017
 26. [x] | [Stripe Follow Along Nav](http://mitul-js30.surge.sh/26%20-%20Stripe%20Follow%20Along%20Nav/index.html)
 27. [x] | [Click and Drag](http://mitul-js30.surge.sh/27%20-%20Click%20and%20Drag/index.html)
 28. [x] | [Video Speed Controller](http://mitul-js30.surge.sh/28%20-%20Video%20Speed%20Controller/index.html)
-29. [ ] | [Countdown Timer]
+29. [ ] | [Countdown Timer](http://mitul-js30.surge.sh/29%20-%20Countdown%20Timer/index.html)
 30. [ ] | [Whack A Mole]
 
 ## Come find me!
